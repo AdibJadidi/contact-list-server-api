@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "adibbbzzz",
+      "email": "adib@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "محمد ادیب ",
+      "email": "adib123@gmail.net",
+      "id": 31
+    },
+    {
+      "id": 41,
+      "name": "ادیب ",
+      "email": "adibjadidi74@gmail.com"
+    }
+  ]
+}
